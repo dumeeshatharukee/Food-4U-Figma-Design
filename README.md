@@ -26,9 +26,9 @@ Welcome to **Food4U**, a vibrant and user-friendly mobile food ordering app conc
 - **Product Detail Page**
   
   - Displays detailed information about an item (e.g., Beef Burger)
-  - 
+
   - Option to add extras (cheese, sauce, onions, etc.)
-  - 
+    
   - Add to cart functionality
 
 - **Cart Page**
@@ -54,6 +54,11 @@ Welcome to **Food4U**, a vibrant and user-friendly mobile food ordering app conc
 - Menu with Categories and Promotions
 - Item Detail Page (e.g., Beef Burger)
 - Cart Page with Order Summary
+
+
+  <img width="1919" height="865" alt="Image" src="https://github.com/user-attachments/assets/39d1656c-aec5-4e1e-b636-2c324d87c297" />
+
+
 
 
 ## 💡 Future Enhancements
